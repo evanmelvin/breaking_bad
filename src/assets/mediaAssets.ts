@@ -13,8 +13,8 @@ export const mediaAssets = {
   // Character GIFs
   gifs: {
     walter: {
-      danger: "https://media.giphy.com/media/NUZ5OqHdbknHa/giphy.gif",
-      sayMyName: "https://media.giphy.com/media/NUZ5OqHdbknHa/giphy.gif"
+      danger: "https://giphy.com/gifs/3ohc10GA6j4XrLWzZK",
+      sayMyName: "https://giphy.com/gifs/3ohc10GA6j4XrLWzZK"
     },
     jesse: {
       yeahScience: "https://media.giphy.com/media/3o7TKF1fSIs1R19B8k/giphy.gif",
