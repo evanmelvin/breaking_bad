@@ -4,7 +4,7 @@ export const mediaAssets = {
   characters: {
     walter: "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Walter_White_S5B.png/250px-Walter_White_S5B.png",
     jesse: "https://upload.wikimedia.org/wikipedia/en/c/c6/Jesse_Pinkman_S5B.png",
-    gus: "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg",
+    gus: "https://i.pinimg.com/736x/71/c3/64/71c3646ae8158efa14ff5315a9995125.jpg",
     skyler: "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg",
     hank: "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg",
     saul: "https://images.pexels.com/photos/1040881/pexels-photo-1040881.jpeg"
