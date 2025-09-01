@@ -2,7 +2,7 @@
 export const mediaAssets = {
   // Character Images
   characters: {
-    walter: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLmb9uCcPVPFxBNr5CHDw4xLGHAfsW9JL2w&s",
+    walter: "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Walter_White_S5B.png/250px-Walter_White_S5B.png",
     jesse: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
     gus: "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg",
     skyler: "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg",
