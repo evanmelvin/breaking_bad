@@ -3,7 +3,7 @@ export const mediaAssets = {
   // Character Images
   characters: {
     walter: "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Walter_White_S5B.png/250px-Walter_White_S5B.png",
-    jesse: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    jesse: "https://upload.wikimedia.org/wikipedia/en/c/c6/Jesse_Pinkman_S5B.png",
     gus: "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg",
     skyler: "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg",
     hank: "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg",
